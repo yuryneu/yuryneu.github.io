@@ -39,31 +39,27 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<h2>
+  <a href="# Journal Publications"><u>Journal Publications</u></a>&nbsp; <br>
+  <a href="# Conference Publications"><u>Conference Publications</u></a>&nbsp; <br>
+  <a href="# Manuscripts under Review"><u>Manuscripts under Review</u></a>&nbsp; <br>
+</h2>
+<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- First-class Scholarship for PhD, NEU, 2022.09, 2023.09, 2024.09
+- Excellent Paper of Liaoning Computer Federation, 2022.12
+- Outstanding Graduate of Northeastern University, 2021.07
+- Yantai Guoye Scholarship, NEU, 2020.09
+- First-class Scholarship, NEU, 2018.09, 2019.09, 2020.09
+- Outstanding graduates from Liaoning Province, 2018.07
+- First-class Scholarship, SYLU, 2016.09, 2017.09
+- Second-class Scholarship, SYLU,2015.09
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.09 - now*, Northeastern University, Software College, ***Ph.D Candidate*** in software engineering
+- *2018.09 - 2021.07*, Northeastern University, School of Mechanical Engineering & Automation, ***M.S.*** in Mechanical Design & Theory
+- *2014.09 - 2018.07*, Shenyang Ligong University, School of Mechanical Engineering, ***B.S.*** in Mechanical Design, Manufacture & Automation
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Other Academic Experience
+- *2018.06 - 2018.09*, [Lorem](https://github.com/), China.

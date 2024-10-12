@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,16 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello, everyone! Here is **Bingyang Guo (Aries, 郭冰洋)**'s academic page.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🧍‍♂️ Biography
+
+I am pursuing my PhD degree in the Software College at the [Northeastern University](https://www.neu.edu.cn/) (Shenyang, China), advised by [Prof. Ruiyun Yu](http://faculty.neu.edu.cn/yury/). I received the bachelor's degree in the School of Mechanical Engineering at the [Shenyang Ligong University](https://www.sylu.edu.cn/), and the master's degree in the School of Mechanical Engineering and Automation at the [Northeastern University](https://www.neu.edu.cn/), advised by [Prof. Yunhui Yan](http://team.neu.edu.cn/MVR/zh_CN/more/263427/tdld/index.htm) and [Prof. Kechen Song](http://faculty.neu.edu.cn/songkechen/zh_CN/index.htm), within [Machine Vision & Robotics Lab](http://team.neu.edu.cn/MVR).
+
+My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Wealy-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - wxqmdr [at] gmail.com
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 We acquire the funding from the key research and development projects of Liaoning Province (**Research and Application of Key Technologies for Multi-modal Industrial Product Surface Defect Detection Large Model**)!
+- *2024.04*: &nbsp;🎉🎉 Our paper addressed [Transferable recommendation]([https://ieeexplore.ieee.org/abstract/document/10018467/](https://ieeexplore.ieee.org/abstract/document/10491370/)) is accepted by IEEE TKDE (CCF A)!
+- *2024.03*: &nbsp;🎉🎉 Our paper addressed [Weakly-supervised metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10483094/) is accepted by IEEE TIM!
+- *2023.12*: &nbsp;🎉🎉 Our large vision model for industrial surface defect detection **Qing Que** obtained Huawei Ascend Technology Certification!
+- *2023.05*: &nbsp;🎉🎉 We acquire the funding from the Fundamental Research Funds for the Central Universities.
+- *2023.01*: &nbsp;🎉🎉 Our paper addressed [Real-time metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10018467/) is accepted by IEEE TII!
+- *2022.08*: &nbsp;🎉🎉 Our paper addressed [Few-shot metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/9855496/) is accepted by IEEE TIM!
 
-# 📝 Publications 
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -36,22 +47,22 @@ My research interest includes neural machine translation and computer vision. I 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships

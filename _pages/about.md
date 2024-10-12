@@ -57,7 +57,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 - Second-class Scholarship, SYLU,2015.09
 
 # 📖 Educations
-- *2021.09 - now*, Northeastern University, Software College, ***Ph.D Candidate*** in software engineering
+- *2021.09 - now*, Northeastern University, Software College, ***Ph.D Candidate*** in Software Engineering
 - *2018.09 - 2021.07*, Northeastern University, School of Mechanical Engineering & Automation, ***M.S.*** in Mechanical Design & Theory
 - *2014.09 - 2018.07*, Shenyang Ligong University, School of Mechanical Engineering, ***B.S.*** in Mechanical Design, Manufacture & Automation
 

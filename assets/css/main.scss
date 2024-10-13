@@ -107,3 +107,15 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.image-container {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    height: 220px; /* 父容器高度，根据需要调整 */
+    margin: 10px 0; /* 为上下分隔增加间距 */
+}
+
+.uniform-height {
+    height: 200px; /* 图像高度，根据需要调整 */
+    width: auto; /* 确保宽高比不变 */
+}

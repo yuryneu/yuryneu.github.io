@@ -93,12 +93,12 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
-  <li id="U-Pub1"> 
+  <li id="U-Pub4"> 
     When Large Models Meet Industry: A Unified Multimodal Framework Towards Semantic and Spatial Understanding on Metal Surface Defects <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An <br>
     <i>lEEE Transactions on Neural Networks and Learning Systems<strong>(TNNLS).</strong></i> (Under Review)
   </li>
-  <li id="U-Pub1"> 
+  <li id="U-Pub3"> 
     Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection <br>
     Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Bang An, Shi Zhen <br>
     <i>lEEE Transactions on Neural Networks and Learning Systems<strong>(TNNLS).</strong></i> (Under Review)

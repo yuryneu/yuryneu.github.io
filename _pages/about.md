@@ -41,7 +41,9 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 # 📝 Publications
 
-<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br>
+<span style="color:#b02418; font-weight:bold;">#</span> co-first author
+
+<span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br>
 
 <h2 id="Journal Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Journal Publications</h2>
 <ol reversed>

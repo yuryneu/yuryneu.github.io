@@ -121,7 +121,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
         <span class="project-title">Ceramic Package Substrate Surface Defect Auto Optical Inspection (AOI) Equipment</span>
         <span class="project-date">(2024.07 - Now)</span> <br>
         <div class="image-container">
-            <img src="images/AOI.png" alt="AOI Equipment" style="width: auto; height: 200px;">
+            <img src="images/AOI.png" alt="AOI Equipment" class="uniform-height">
         </div> 
         <ol class="itemize">
             <li>constructed a AOI equipment for ceramic package substrate surface.</li>
@@ -132,7 +132,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
         <span class="project-title">Double CCD Structured Light Measurement System</span>
         <span class="project-date">(2024.02 - 2024.07)</span> <br>
         <div class="image-container">
-            <img src="images/3DS.png" alt="Measurement System" style="width: auto; height: 200px;" > 
+            <img src="images/3DS.png" alt="Measurement System" class="uniform-height"> 
         </div> 
         <ol class="itemize">
             <li>constructed a double CCD structured light Measurement system for mechanical basic components.</li>
@@ -143,7 +143,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
         <span class="project-title">Multiple Line Laser Scanning Equipment</span>
         <span class="project-date">(2023.11 - 2024.06)</span> <br>
         <div class="image-container">
-            <img src="images/3D.png" alt="Scanning Equipment" style="width: auto; height: 200px;" >
+            <img src="images/3D.png" alt="Scanning Equipment" class="uniform-height">
         </div> 
         <ol class="itemize">
             <li>constructed a multiple line laser scanning equipment for ceramic package substrate surface.</li>
@@ -154,7 +154,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
         <span class="project-title">Engine Automatic Assembly System</span>
         <span class="project-date">(2021.12 - 2023.09)</span> <br>
         <div class="image-container">
-            <img src="images/fdj.png" alt="Assembly System" style="width: auto; height: 200px;" >
+            <img src="images/fdj.png" alt="Assembly System" class="uniform-height">
         </div> 
         <ol class="itemize">
             <li>constructed a multi-axis linkage digital installation rack vehicle.</li>

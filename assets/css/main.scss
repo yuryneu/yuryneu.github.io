@@ -114,8 +114,3 @@ h1:before, .anchor:before {
     height: 150px; /* 父容器高度，根据需要调整 */
     margin: 10px 0; /* 为上下分隔增加间距 */
 }
-
-.uniform-height {
-    height: 150px; /* 图像高度，根据需要调整 */
-    width: auto; /* 确保宽高比不变 */
-}

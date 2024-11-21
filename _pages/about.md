@@ -49,32 +49,32 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Journal Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Journal Publications</h2>
 <ol reversed>
-  <li id="J-Pub6"> 
+  <li id="J-Pub6">
     Dynamic Reasoning Network for Image-level Supervised Segmentation on Metal Surface Defect <a href="https://ieeexplore.ieee.org/abstract/document/10483094/">[Paper]</a> <br>
     Ruiyun Yu, <span style="color:#b02418; font-weight:bold;">Bingyang Guo*</span>, Kang Yang <br>
     <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2024.
   </li>
-  <li id="J-Pub5"> 
+  <li id="J-Pub5">
     Is multi-level data enhancement helpful for knowledge graph? A new perspective on multimodal fusion <a href="https://www.sciencedirect.com/science/article/pii/S0950705124009195">[Paper]</a> <br>
     Kang Yang, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>  <br>
     <i>Knowledge-Based Systems<strong>(KBS).</strong></i> 2024.
   </li>
-  <li id="J-Pub4"> 
+  <li id="J-Pub4">
     Interaction Subgraph Sequential Topology-Aware Network for Transferable Recommendation <a href="https://ieeexplore.ieee.org/abstract/document/10491370/">[Paper]</a> <br>
     Kang Yang, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Jie Li <br>
     <i>IEEE Transactions on Knowledge and Data Engineering<strong>(TKDE).</strong></i> 2024.
-  </li>  
-  <li id="J-Pub3"> 
+  </li>
+  <li id="J-Pub3">
     SPEED: Semantic prior and extremely efficient dilated convolution network for real-time metal surface defects detection <a href="https://ieeexplore.ieee.org/abstract/document/10018467/">[Paper]</a> <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Kang Yang <br>
     <i>IEEE Transactions on Industrial Informatics<strong>(TII).</strong></i> 2023.
   </li>
-  <li id="J-Pub2"> 
+  <li id="J-Pub2">
     Selective prototype network for few-shot metal surface defect segmentation <a href="https://ieeexplore.ieee.org/abstract/document/9855496/">[Paper]</a> <br>
     Ruiyun Yu, <span style="color:#b02418; font-weight:bold;">Bingyang Guo*</span>, Kang Yang <br>
     <i>IEEE Transactions on Instrumentation and Measurement <strong>(TIM).</strong></i> 2022.
   </li>
-  <li id="J-Pub1"> 
+  <li id="J-Pub1">
     NERNet: Noise estimation and removal network for image denoising <a href="https://www.sciencedirect.com/science/article/pii/S1047320320301024">[Paper]</a> <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Kechen Song*, Hongwen Dong, Yunhui Yan*, Zhibiao Tu, Liu Zhu  <br>
     <i>Journal of Visual Communication and Image Representation <strong>(JVCIR).</strong></i> 2020.
@@ -83,7 +83,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Conference Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Conference Publications</h2>
 <ol reversed>
-  <li id="C-Pub1"> 
+  <li id="C-Pub1">
     The interaction graph auto-encoder network based on topology-aware for transferable recommendation <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557471">[Paper]</a> <br>
     Ruiyun Yu, Kang Yang*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span> <br>
     <i>Proceedings of the 31st ACM International Conference on Information & Knowledge Management<strong>(CIKM 2022).</strong></i> 2022.
@@ -92,22 +92,22 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
-  <li id="U-Pub4"> 
+  <li id="U-Pub4">
     When Large Models Meet Industry: A Unified Multimodal Framework Towards Semantic and Spatial Understanding on Metal Surface Defects <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An <br>
     <i>lEEE Transactions on Neural Networks and Learning Systems<strong>(TNNLS).</strong></i> (Under Review)
   </li>
-  <li id="U-Pub3"> 
+  <li id="U-Pub3">
     Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection <br>
     Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Bang An, Shi Zhen <br>
     <i>lEEE Transactions on Neural Networks and Learning Systems<strong>(TNNLS).</strong></i> (Under Review)
   </li>
-  <li id="U-Pub2"> 
+  <li id="U-Pub2">
     Background-weaken Generalization Network for Few-Shot Industrial Metal Defect Segmentation <br>
     Ruiyun Yu, Haoyuan Li*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ziming Zhao <br>
     <i>IEEE Transactions on Instrumentation and Measurement<strong>(TIM).</strong></i> (Major Revision)
   </li>
-  <li id="U-Pub1"> 
+  <li id="U-Pub1">
     Dynamic Cross Characterization Network for Few-Shot IC Package Substrates Surface Defect Segmentation <br>
     Ruiyun Yu, Haoyuan Li*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span> <br>
     <i>IEEE Transactions on Industrial Informatics<strong>(TII).</strong></i> (Under Review)
@@ -117,12 +117,12 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 # 💻 Projects
 
 <ol class="projects-list">
-    <li class="project clearfix">
+    <!-- <li class="project clearfix">
         <span class="project-title">Ceramic Package Substrate Surface Defect Auto Optical Inspection (AOI) Equipment</span>
         <span class="project-date">(2024.07 - Now)</span> <br>
         <div class="image-container">
             <img src="images/AOI.png" alt="AOI Equipment" class="uniform-height">
-        </div> 
+        </div>
         <ol class="itemize">
             <li>constructed a AOI equipment for ceramic package substrate surface.</li>
             <li>collected a comprehensive dataset of high-resolution images for ceramic package substrate surface inspection.</li>
@@ -132,8 +132,8 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
         <span class="project-title">Double CCD Structured Light Measurement System</span>
         <span class="project-date">(2024.02 - 2024.07)</span> <br>
         <div class="image-container">
-            <img src="images/3DS.png" alt="Measurement System" class="uniform-height"> 
-        </div> 
+            <img src="images/3DS.png" alt="Measurement System" class="uniform-height">
+        </div>
         <ol class="itemize">
             <li>constructed a double CCD structured light Measurement system for mechanical basic components.</li>
             <li>collected a comprehensive dataset of high-resolution point clouds for mechanical basic components 3D anomaly detection.</li>
@@ -144,18 +144,18 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
         <span class="project-date">(2023.11 - 2024.06)</span> <br>
         <div class="image-container">
             <img src="images/3D.png" alt="Scanning Equipment" class="uniform-height">
-        </div> 
+        </div>
         <ol class="itemize">
             <li>constructed a multiple line laser scanning equipment for ceramic package substrate surface.</li>
             <li>collected a comprehensive dataset of high-resolution point clouds for ceramic package substrate 3D inspection.</li>
         </ol>
-    </li>
+    </li> -->
     <li class="project clearfix">
         <span class="project-title">Engine Automatic Assembly System</span>
         <span class="project-date">(2021.12 - 2023.09)</span> <br>
         <div class="image-container">
             <img src="images/fdj.png" alt="Assembly System" class="uniform-height">
-        </div> 
+        </div>
         <ol class="itemize">
             <li>constructed a multi-axis linkage digital installation rack vehicle.</li>
             <li>constructed an automatic installation digital twin system for aircraft engines.</li>
@@ -165,7 +165,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 
 
-# 🎓 Academic Service 
+# 🎓 Academic Service
 - *Journal Reviewer*, IEEE TIP, IEEE TNNLS, IEEE TII, IEEE TIM, etc.
 - *Conference Reviewer*, ACM MM, NeurIPS, etc.
 

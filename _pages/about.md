@@ -28,6 +28,7 @@ I am pursuing my PhD degree in the Software College at the [Northeastern Univers
 My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Wealy-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - wxqmdr@gmail.com
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Our paper addressed [Integrated circuits package substrate anomaly detection] is accepted by ICCV 2025! The new dataset CPS2D-AD proposed in the paper is currently the largest integrated circuit defect detection dataset in the world!
 - *2025.03*: &nbsp;🎉🎉 Our paper addressed [Few-shot metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10898041) is accepted by IEEE TIM!
 - *2024.09*: &nbsp;🎉🎉 We acquire the funding from the key research and development projects of Liaoning Province (**Research and Application of Key Technologies for Multi-modal Industrial Product Surface Defect Detection Large Model**)!
 - *2024.04*: &nbsp;🎉🎉 Our paper addressed [Transferable recommendation]([https://ieeexplore.ieee.org/abstract/document/10018467/](https://ieeexplore.ieee.org/abstract/document/10491370/)) is accepted by IEEE TKDE (CCF A)!
@@ -53,7 +54,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
   <li id="J-Pub7">
     Background-weaken Generalization Network for Few-Shot Industrial Metal Defect Segmentation <a href="https://ieeexplore.ieee.org/abstract/document/10898041">[Paper]</a> <br>
     Ruiyun Yu, Haoyuan Li*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ziming Zhao <br>
-    <i>IEEE Transactions on Instrumentation and Measurement<strong>(TIM).</strong></i> (Major Revision)
+    <i>IEEE Transactions on Instrumentation and Measurement<strong>(TIM).</strong></i>
   </li>
   <li id="J-Pub6">
     Dynamic Reasoning Network for Image-level Supervised Segmentation on Metal Surface Defect <a href="https://ieeexplore.ieee.org/abstract/document/10483094/">[Paper]</a> <br>
@@ -89,6 +90,11 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Conference Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Conference Publications</h2>
 <ol reversed>
+ <li id="C-Pub2">
+    Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application <a href="">[Paper]</a> <br>
+    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>,, Ruiyun Yu*, Haoyuan Li <br>
+    <i>International Conference on Computer Vision<strong>(ICCV).</strong></i>
+  </li>
   <li id="C-Pub1">
     The interaction graph auto-encoder network based on topology-aware for transferable recommendation <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557471">[Paper]</a> <br>
     Ruiyun Yu, Kang Yang*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span> <br>
@@ -101,7 +107,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
   <li id="U-Pub4">
     EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An <br>
-    <i>IEEE Transactions on Industrial Informatics<strong>(TII).</strong></i> (Under Review)
+    <i>Engineering Applications of Artificial Intelligence<strong>(EAAI).</strong></i> (Under Review)
   </li>
   <li id="U-Pub3">
     When Large Models Meet Industry: A Unified Multimodal Framework Towards Semantic and Spatial Understanding on Metal Surface Defects <br>

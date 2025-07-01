@@ -92,7 +92,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 <ol reversed>
  <li id="C-Pub2">
     Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application <a href="">[Paper]</a> <br>
-    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>,, Ruiyun Yu*, Haoyuan Li <br>
+    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li <br>
     <i>International Conference on Computer Vision<strong>(ICCV).</strong></i>
   </li>
   <li id="C-Pub1">

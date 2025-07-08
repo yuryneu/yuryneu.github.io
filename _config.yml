@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bingyang Guo"
-description              : "The best is yet come "
-repository               : "Bingyang0410/Bingyang0410.github.io"
+title                    : "Ruiyun Yu"
+description              : ""
+repository               : "yuryneu/yuryneu.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Bingyang Guo"
-  avatar           : "images/gby.jpg"
+  name             : "Ruiyun Yu"
+  avatar           : "images/yry.png"
   bio              : "Northeastern University"
   location         : "Shenyang, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=cKwKDe8AAAAJ&hl=zh-CN"
-  email            : "wxqdmr@gmail.com"
+  googlescholar    : 
+  email            : "yury@mail.neu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Bingyang0410 # e.g., "github username"
+  github           : yuryneu # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0000-0002-6630-0044 # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0000-0003-0523-6242 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

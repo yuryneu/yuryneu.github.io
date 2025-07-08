@@ -45,7 +45,7 @@ If you have any questions or wish to cooperate with us, please feel free to cont
 - *2022.08*: &nbsp;🎉🎉 Our paper addressed [Few-shot metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/9855496/) is accepted by IEEE TIM!
 
 # 📖 Educations
-- *2005.03 - 2009.01*, Northeastern University, College of Information Science & Engineering, ***M.S.*** in Computer Application Technology
+- *2005.03 - 2009.01*, Northeastern University, College of Information Science & Engineering, ***Ph.D.*** in Computer Application Technology
 - *2001.09 - 2004.03*, Northeastern University, College of Information Science & Engineering, ***M.S.*** in Computer Application Technology
 - *1993.08 - 1997.07*, Northeastern University, School of Mechanical Engineering & Automation, ***B.S.*** in Fluid Power Transmission & Control
 

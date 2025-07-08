@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, everyone! Here is **Bingyang Guo (Aries, 郭冰洋)**'s academic page. Thanks for the template provided by [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)!
+Hello, everyone! Here is **Bingyang  Guo (Aries, 郭冰洋)**'s academic page. Thanks for the template provided by [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)!
 
 # 🧍‍♂️ Biography
 

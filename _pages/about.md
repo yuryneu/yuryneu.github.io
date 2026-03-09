@@ -118,6 +118,13 @@ If you have any questions or wish to cooperate with his team, please feel free t
   </li>
 </ol>
 
-# 🎓 Academic Service
-- *Journal Reviewer*, IEEE TIP, IEEE TNNLS, IEEE TII, IEEE TIM, etc.
-- *Conference Reviewer*, CVPR, ACM MM, NeurIPS, etc.
+# 🎓 Academic Appointment
+- Chief Scientist, the major project on the Innovation and Development Program of Industrial Internet, Ministry of Industry and Information Technology, China
+- Director, the Shenyang Core Node of the China Education and Research Network (CERNET)
+- Associate Editor, IEEE Transactions on Industrial Informatics (IEEE TII)
+- Director, the Industrial Internet Platform Application Innovation & Promotion Center, the Ministry of Industry and Information Technology, China
+- Executive Committee Member, Technical Committee on Internet of Things (IoT), China Computer Federation (CCF)
+- Committee Member, Technical Committee on Visual Inspection, China Society of Image and Graphics
+- Committee Member, Standardization Working Committee, the Chinese Association of Automation (CAA)
+- Vice Director, the Liaoning Province Graphics Society, China
+- Deputy Director, the Liaoning Provincial Key Laboratory of Multidisciplinary Design Optimization Technology for Complex Equipment, China

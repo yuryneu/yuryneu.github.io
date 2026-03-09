@@ -25,7 +25,7 @@ redirect_from:
 
 Ruiyun Yu is a professor of the Software College, and the director of the Cyberspace Affairs Office at Northeastern University. He received his bachelor's degree in mechanical engineering and automation, and MS and PhD degrees in computer science and technology from the Northeastern University in 1997, 2004, 2009, respectively. He serves as the director of the Industrial Internet Platform Application Innovation & Promotion Center of the Ministry of Industry and Information Technology, China, and the director of the Shenyang Core Node of the China Education and Research Network (CERNET). He also serves as the associate editor of IEEE Transactions on Industrial Informatics (IEEE TII). He is the Chief Scientist of a major project in the Industrial Internet Innovation and Development Program of the Ministry of Industry and Information Technology, a leading talent of "Xingliao Talent Program" of Liaoning Province, an Outstanding Science and Technology Researcher of Liaoning Province, and a leading talent of Shenyang City. He is also a Distinguished Member of the China Computer Federation (CCF) and an Executive Committee Member of the CCF Internet of Things Technical Committee.
 
-His main research directions are **Industrial Vision**, **Time series analysis**, and **3D Spatial Intelligence**. He actively promotes technological innovation in the fields of **Industrial Internet** and **Artificial Intelligence** in scientific research, and carries out research on intelligent software, algorithms and application systems in the fields of integrated circuits, precision manufacturing and other choke fields.
+His main research directions are **Industrial Vision**, **Time Series Analysis**, and **3D Spatial Intelligence**. He actively promotes technological innovation in the fields of **Industrial Internet** and **Artificial Intelligence** in scientific research, and carries out research on intelligent software, algorithms and application systems in the fields of integrated circuits, precision manufacturing and other choke fields.
 
 If you have any questions or wish to cooperate with his team, please feel free to contact him. Email: yury@mail.neu.edu.cn
 
@@ -39,9 +39,9 @@ If you have any questions or wish to cooperate with his team, please feel free t
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed 4D HDR scene segmentation is accepted by ECAI 2025!
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed [3D scene reconstruction](https://www.sciencedirect.com/science/article/pii/S2352864825001051) is accepted by Digital Communications and Networks!
 - *2025.06*: &nbsp;🎉🎉 Our paper addressed Integrated circuits package substrate anomaly detection is accepted by ICCV 2025! The new dataset CPS2D-AD proposed in the paper is currently the largest integrated circuit defect detection dataset in the world!
-- *2025.05*: &nbsp;🎉🎉 Our paper addressed [Time series analysis](https://www.sciencedirect.com/science/article/abs/pii/S0166361525000788) is accepted by Computer in Industry!
+- *2025.05*: &nbsp;🎉🎉 Our paper addressed [Time Series Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0166361525000788) is accepted by Computer in Industry!
 - *2025.03*: &nbsp;🎉🎉 Our paper addressed [Few-shot metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10898041) is accepted by IEEE TIM!
-- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Time series analysis](https://www.sciencedirect.com/science/article/pii/S0925231224019088) is accepted by Neurocomputing!
+- *2025.02*: &nbsp;🎉🎉 Our paper addressed [Time Series Analysis](https://www.sciencedirect.com/science/article/pii/S0925231224019088) is accepted by Neurocomputing!
 - *2024.10*: &nbsp;🎉🎉 Our paper addressed [Recommendation System](https://www.sciencedirect.com/science/article/pii/S0950705124009195) is accepted by KBS!
 - *2024.09*: &nbsp;🎉🎉 We acquire the funding from the key research and development projects of Liaoning Province (**Research and Application of Key Technologies for Multi-modal Industrial Product Surface Defect Detection Large Model**)!
 - *2024.04*: &nbsp;🎉🎉 Our paper addressed [Transferable recommendation]([https://ieeexplore.ieee.org/abstract/document/10018467/](https://ieeexplore.ieee.org/abstract/document/10491370/)) is accepted by IEEE TKDE (CCF A)!
@@ -111,7 +111,7 @@ If you have any questions or wish to cooperate with his team, please feel free t
   </li>
 </ol>
 
-<h2 id="Time series analysis" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Time series analysis</h2>
+<h2 id="Time Series Analysis" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Time Series Analysis</h2>
 <ol reversed>
   <li id="J-Pub7">
     Distformer: Time-frequency Feature Distribution-Aware Transformer for Long-Term Time Series Prediction <br>
